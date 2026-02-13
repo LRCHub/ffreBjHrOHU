@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "少年漫画",
+  "base_artist": "CIEL",
+  "createdAt": "2026-02-13T05:54:10.501337Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少年漫画",
+      "artist": "CIEL",
+      "has_synced": false,
+      "path": "select/pl_01_少年漫画_CIEL.txt"
+    }
+  ]
+}
